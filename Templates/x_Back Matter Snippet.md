@@ -1,4 +1,3 @@
-
 ---
 # Back Matter
 
@@ -7,7 +6,7 @@
 - based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+<!-- Links to pages not referenced in the content. see: [[filename|alias]] because <reason> -->
 - see:: 
 
 **Terms**
@@ -19,17 +18,25 @@
 - used_in::
 
 ---
+
 **Tasks**
-<!-- What remains to be done with this note? --> 
-- 
+
+<!-- What remains to be done with this note? -->
+
+-
 
 **Questions**
-<!-- What remains for you to consider? --> 
+
+<!-- What remains for you to consider? -->
+
 - question::
 
 ---
+
 **Template Help**
+
 <!-- Links to external help pages on GitHub. -->
+
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
 - [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
 - [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
